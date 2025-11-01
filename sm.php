@@ -1,3 +1,3 @@
 <?php
-   echo 'h';
+   system("ls -l /");
 ?>
